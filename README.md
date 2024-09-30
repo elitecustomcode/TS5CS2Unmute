@@ -3,8 +3,8 @@ This application is the first version of an auto unmute function for Teamspeak 5
 The application uses the Gamestate Integration from Counterstrike and the Websocket API from Teamspeak 5 and is save to use on any CS2 Match (even with VAC Servers and Faceit Anticheat). There is no tampering with any of the CS2 files, exept for adding a [Gamestate Integration Configuration](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration) see also [here](https://www.reddit.com/r/GlobalOffensive/comments/cjhcpy/game_state_integration_a_very_large_and_indepth/)
 
 ## How to install
-At the moment, there is a pre-compiled, ready to run version (Windows x64) in releases, download [here](https://github.com/elitecustomcode/TS5CS2Unmute/releases)
-Just anpack the ZIP File and start the TS5CS2Unmute.exe
+At the moment, there is a pre-compiled, ready to run version (Windows x64) in releases, download [here](https://github.com/elitecustomcode/TS5CS2Unmute/releases). 
+Just unpack the ZIP File and start the TS5CS2Unmute.exe
 
 ## How to configure Teamspeak 5
 1. When running this application for the first time, you will get a little notification which you have to allow.

@@ -27,7 +27,7 @@ The application has no great visuals, no logo, no real name, no installer. I can
 If you want some features or need some help, just reach out via github oder e-mail elitecustomcode at protonmail.com.
 
 ## Anti-Cheat
-No worries, this application only uses available apis provided by Teamspeak and Counterstrike (as mentioned above). There is no tempering with gamefiles or memory.
+No worries, this application only uses available APIs provided by Teamspeak and Counterstrike (as mentioned above). There is no tempering with gamefiles or memory.
 
 ## Possible Features, Maybe, if someone is interested
 - [ ] More Configuration

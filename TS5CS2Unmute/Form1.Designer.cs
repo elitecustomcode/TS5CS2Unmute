@@ -83,7 +83,7 @@
             Controls.Add(labelCS2File);
             Controls.Add(labelStatus);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Teamspeak 5 CS2 Auto Unmute";
             ResumeLayout(false);
             PerformLayout();
         }

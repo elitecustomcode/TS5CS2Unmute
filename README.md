@@ -29,7 +29,7 @@ If you want some features or need some help, just reach out via github oder e-ma
 ## Anti-Cheat
 No worries, this application only uses available APIs provided by Teamspeak and Counterstrike (as mentioned above). There is no tempering with gamefiles or memory.
 
-## Possible Features, Maybe, if someone is interested
+## Possible Features, maybe, if someone is interested
 - [ ] More Configuration
 - [ ] Anti-Flash Noise Cancelling
 - [ ] Config-Features (i.E. Buyscripts)
